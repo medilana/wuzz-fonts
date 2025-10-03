@@ -1,5 +1,5 @@
 # wuzz-fonts
-A beautiful open-source font family, meticulously crafted for screen readability and stellar web performance
+A beautiful open-source font family, meticulously crafted for screen readability and stellar web performance.
 
 > Sebuah keluarga font open-source yang modern dan serbaguna, dirancang untuk keterbacaan luar biasa di antarmuka digital.
 
